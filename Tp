@@ -55,9 +55,9 @@ _G.Setting_table = {
 	Defense_A = true,
 	SkillZ = true,
 	Rejoin = true,
-	Anti_AFK = true,
+	Anti_AFK = true
 	K_MAX = 50,
-	Chest_Lock = 50,
+	Chest_Lock = 50
 	Delay_C = 15
 }
 
